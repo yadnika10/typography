@@ -7,3 +7,5 @@ https://yadnika10.github.io/typography/<br>
 1.Added main div and sub div's.<br>
 2.Added sub div's for title content image and iframe<br>
 3.Added style tags to make them proper in center of page, font style, width and height<br>
+4.added display as flex, for main div i.e container div<br>
+5.added border-bottom and style to it.<br>
